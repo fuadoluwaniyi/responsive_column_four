@@ -25,7 +25,7 @@ body{
 }
 .column4-col{
     line-height: normal;
-    min-width: 350px;
+    min-width: 40%;
     padding: 20px;
 	margin: 20px 80px;
     box-sizing: border-box;
