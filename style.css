@@ -79,7 +79,8 @@ body{
 /*responsive*/
 @media(max-width: 700px){
     .column4-col p{
-        font-size: small;   
+        font-size: small;
+    }   
 }
 @media(max-width: 547px){
     .row4{
@@ -88,14 +89,14 @@ body{
 	.column4-col{
 		margin: 20px auto;
         max-width: 350px;
-	 } 
+	} 
 	.column2-col{
 		width: 100%;
 		margin: 5px 20px;
-	 }
+	}
      .column4-col p{
         font-size: large;   
-}
+    }
 }
 @media(max-width: 350px){
     .row4{
@@ -104,9 +105,9 @@ body{
 	.column4-col{
 		margin: 20px auto;
         max-width: 250px;
-	 } 
+	} 
 	.column2-col{
 		width: 100%;
 		margin: 5px 20px;
-	 }
+	}
 }
